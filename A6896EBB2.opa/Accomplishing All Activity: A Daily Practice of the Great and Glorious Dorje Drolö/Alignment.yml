@@ -1,0 +1,26 @@
+segment_sources:
+  PBDE1889B:
+    type: origin_type
+    relation: translation
+    language: en
+  P122799E1:
+    type: origin_type
+    relation: translation
+    language: zh
+  P8D0988C9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c218ff5b03a24047852b9caca6623442:
+    PBDE1889B: fb3a4699398d493a830c6ae0269827bf
+    P122799E1: f6d150020f6d45c7ab7611a1cb77f331
+    P8D0988C9: cb5791b465d74c9581e0d17742aa8a74
+  62dee2029d014179a0d69b3da53a0ddf:
+    PBDE1889B: 7bd5ca37b94b41618b2906e795efd72c
+    P122799E1: 5c9347b90548497588c1f4b8ca773f17
+    P8D0988C9: 244d02259fb94a38943f2eef7433a716
+  84691383910a40a6acd908564d132ef7:
+    PBDE1889B: bc62ca3ae61249e7a4f10167340add5e
+    P122799E1: 2ea7a2a30c944914af985b3c88efecaf
+    P8D0988C9: 28047d094344494e89b62e6874464c04
